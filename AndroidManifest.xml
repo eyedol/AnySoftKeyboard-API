@@ -14,5 +14,5 @@
             android:anyDensity="true"/>
     <!-- http://d.android.com/guide/practices/screens_support.html read about legacy. -->
 
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="15"/>
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="15"/>
 </manifest>
